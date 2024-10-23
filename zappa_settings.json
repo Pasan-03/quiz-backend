@@ -1,0 +1,7 @@
+{
+    "dev": {
+        "aws_region": "ap-south-1",  // or your preferred AWS region
+        "s3_bucket": "student-vle-quiz-backend",  // replace with your bucket name
+        "app_function": "quiz.py"  // path to your FastAPI app
+    }
+}
